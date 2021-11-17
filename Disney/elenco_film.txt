@@ -1,0 +1,19 @@
+Film Codes ID
+Cinderella CIN
+Aladin AL 
+the rescuers RES  
+Spada roccia ROC
+Mary poppins MP
+Peter Pam PP
+Emperor EMP 00
+Lion King LK 
+Winnie the pooh WP
+Tron TR
+ALice APM 
+Hercules H
+Lilo & Stitch LS 00
+Oliver OC
+Spirited away SA 00
+Aristocats AR
+Jungle book JB
+Little Maramaid LM
